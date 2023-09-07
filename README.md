@@ -1,6 +1,8 @@
 ---
 description: this is new page
+cover: .gitbook/assets/banner1.png
+coverY: 0
 ---
 
-# test-gitbook
+# 🚀 Get Start
 
